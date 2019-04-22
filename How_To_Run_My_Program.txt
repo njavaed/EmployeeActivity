@@ -1,9 +1,13 @@
-* This program needs an external library JFreeChart. I wrote my program on eclipse.
+* This program needs an external library JFreeChart. I have included all three jar files in this submissions which are 
+  required to run this program. 
+  The three jar files are
+        1. jcommon-1.0.21.jar
+        2. jfreechart-1.0.18.jar
+        3. xml-apis-1.3.04.jar
+* I wrote my program in eclipse. 
 * You have to download JFreeChart version 1.0.18 on your PC. Then add the path of this library to 
   your project in eclipse.
-* 
 * For this program the id of an admin is '000'. The name of admin is 'Wasif' and the
   role is 'Administrator'.
 * Once you login with admin credentials you can see the other employee information. Then later you can
   restart the program and login with an employee id, name and role to see his options on this portal.
-* 
