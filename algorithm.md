@@ -1,4 +1,5 @@
 # Data Management Portal
+(This program uses Vectors, Object orientation, Interface)
 
 ## Goal:
 	Make a program that allows to store company files. View the files and update the files. 
