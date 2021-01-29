@@ -24,7 +24,7 @@ public class BarChart extends ApplicationFrame{
 		//instantiate JFreeChart to create the barchart
 		JFreeChart barchart = ChartFactory.createBarChart(
 		chartTitle,
-		"Names",
+		"NAMES",
 		"CountOfLogin",
 		createDataset(),
 		PlotOrientation.VERTICAL,
